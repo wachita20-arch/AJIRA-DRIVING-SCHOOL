@@ -49,7 +49,7 @@ footer{padding:12px;text-align:center;font-size:12px;color:#555;border-top:1px s
 </head>
 <body>
 <div class="phone">
-<header><div>🇰🇪 NPS AJIRA DRIVING SCHOOL</div><h1>ADMISSION • LESSONS • FEES • BALANCES • CLASSES</h1><p>One App - Everything</p><span class="badge">NTSA APPROVED • EN / SW • ULTIMATE v4</span>
+<header><div> AJIRA DRIVING SCHOOL</div><h1>ADMISSION • LESSONS • FEES • BALANCES • CLASSES</h1><p>One App - Everything</p><span class="badge">NTSA APPROVED • EN / SW • ULTIMATE v4</span>
 <div class="lang"><button id="btnEN" class="active" onclick="setLang('en')">🇬🇧 ENGLISH</button><button id="btnSW" onclick="setLang('sw')">🇰🇪 KISWAHILI</button></div>
 <a href="https://wa.me/c/254777725770" target="_blank" style="text-decoration:none"><button style="background:#25D366">💬 JOIN WHATSAPP CHANNEL - 0777 725 770</button></a>
 </header>
